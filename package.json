@@ -8,6 +8,7 @@
     "start": "electron ."
   },
   "devDependencies": {
+    "devtron": "^1.4.0",
     "electron": "^5.0.6",
     "husky": "2.7.0",
     "lint-staged": "^8.2.1",
