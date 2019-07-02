@@ -5,7 +5,7 @@
   "repository": "git@github.com:danhoran/browser.git",
   "author": "Dan Horan <dan.horan@ocado.com>",
   "scripts": {
-    "start": "electron ."
+    "start": "electron ./src/main"
   },
   "devDependencies": {
     "devtron": "^1.4.0",
