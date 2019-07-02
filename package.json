@@ -9,8 +9,8 @@
   },
   "devDependencies": {
     "electron": "^5.0.6",
-    "husky": ">=1",
-    "lint-staged": ">=8",
+    "husky": "2.7.0",
+    "lint-staged": "^8.2.1",
     "prettier": "^1.18.2"
   },
   "license": "MIT",
