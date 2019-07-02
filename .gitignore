@@ -1,0 +1,13 @@
+# dependencies
+node_modules/
+
+# testing
+coverage/
+
+# misc
+*.log*
+*.orig
+*.code-workspace
+.env
+.idea/
+
